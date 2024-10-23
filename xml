@@ -137,7 +137,7 @@ a:hover {
 .header-container {
     position: relative; /* Ensure the header is positioned correctly */
     background: 
-        url('https://i.imgur.com/7oZfSgP.jpeg') no-repeat center top; /* Non-tiling background image, positioned at the top */
+        url('https://i.imgur.com/HMTD8pe.png') no-repeat center top; /* Non-tiling background image, positioned at the top */
     background-size: auto 100%; /* Stretch image to fit the height of the container */
     padding: 15px; /* Adjust padding as needed */
 	margin-bottom: 20px;
@@ -200,6 +200,7 @@ a:hover {
     width: 100%; /* Take up the full width of the page */
     height: 100%; /* Adjust the height if necessary */
 }
+
 /* Bell Icon */
 .bell-icon {
     font-size: 24px;
@@ -210,11 +211,14 @@ a:hover {
     color: #ececeb; /* Default color for the icon */
     transition: color 0.3s ease, box-shadow 0.3s ease; /* Smooth transition for color and glow */
 }
+
 /* Glow effect on hover for the bell icon */
 .bell-icon:hover {
     color: #ffffff; /* Change icon color on hover */
-    box-shadow: 0 0 8px rgba(236, 236, 235, 0.8); /* Glow effect with hover color */
+    box-shadow: 0 0 10px rgba(255, 80, 99, 0.7), /* Soft glow */
+                0 0 20px rgba(255, 80, 99, 0.5); /* Stronger glow */
 }
+
 /* Notification container */
 .notification-container {
     position: relative; /* Ensure positioning is relative to the bell icon container */
@@ -313,6 +317,7 @@ a:hover {
   margin-top: 20px; /* Reduce the top margin to move the title up */
   margin-bottom: 20px; /* Reduce the bottom margin to bring elements closer */
 }
+
 /* Glowing Title */
 .glowing-title {
   font-family: 'IM Fell English', serif; /* Use your desired font */
@@ -321,16 +326,18 @@ a:hover {
   text-decoration: none; /* Remove underline */
   text-align: center;
   transition: text-shadow 0.3s ease, color 0.3s ease; /* Smooth glow transition */
-  text-shadow: 0 0 1rem rgba(255, 255, 255, 0.7), 
-               0 0 2rem rgba(255, 255, 255, 0.5), 
-               0 0 3rem rgba(255, 255, 255, 0.3); /* Adjusted to rems */
+  text-shadow: 0 0 1rem rgba(255, 80, 99, 0.7), 
+               0 0 2rem rgba(255, 80, 99, 0.5), 
+               0 0 3rem rgba(255, 80, 99, 0.3); /* Updated to glow with the new color */
 }
+
 .glowing-title:hover {
   color: #ffffff; /* Keep the text white */
-  text-shadow: 0 0 1.5rem rgba(255, 255, 255, 0.9), 
-               0 0 3rem rgba(255, 255, 255, 0.7), 
-               0 0 4.5rem rgba(255, 255, 255, 0.5); /* Stronger glow effect on hover, adjusted to rems */
+  text-shadow: 0 0 1.5rem rgba(255, 80, 99, 1), 
+               0 0 3rem rgba(255, 80, 99, 0.7), 
+               0 0 4.5rem rgba(255, 80, 99, 0.5); /* Stronger glow effect on hover */
 }
+
 /* Search Container */
 .search-container {
   display: flex; /* Use flex to adjust to the content size */
@@ -931,7 +938,7 @@ a:hover {
     position: relative; /* Make it relative for the overlay */
 	margin-top: 10px;
     background: 
-        url('https://i.imgur.com/V2Ogh1g.jpeg') no-repeat center center; /* Background image */
+        url('https://i.imgur.com/AwibCLH.png') no-repeat center center; /* Background image */
     background-size: cover; /* Ensure the image covers the entire container */
     color: #ECECEB;
     padding: 30px 0;
