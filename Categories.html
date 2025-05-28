@@ -1,0 +1,141 @@
+<!-- Add this to the top of your Blogger page (HTML view) -->
+<link href="https://fonts.googleapis.com/css2?family=IM+Fell+English&display=swap" rel="stylesheet">
+
+<style>
+body {
+  background-color: #111;
+  color: #ECECEB;
+  font-family: 'IM Fell English', serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Container */
+.category-section {
+  padding: 20px;
+}
+
+/* Headers */
+.category-section h1, .category-section h2 {
+  color: #ECECEB;
+  border-bottom: 2px solid #ECECEB;
+  padding-bottom: 6px;
+  margin-top: 40px;
+}
+
+/* Category Grid */
+.category-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.category-grid a {
+  display: block;
+  padding: 10px;
+  background-color: #ECECEB;
+  color: #111;
+  border-radius: 4px;
+  text-align: center;
+  font-weight: 500;
+  text-decoration: none;
+  transition: box-shadow 0.3s ease, transform 0.2s;
+}
+
+.category-grid a:hover {
+  box-shadow: 0 0 10px red;
+  transform: scale(1.03);
+}
+
+/* Navigation Buttons */
+.nav-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.nav-buttons a {
+  padding: 6px 12px;
+  background: #ECECEB;
+  color: #111;
+  text-decoration: none;
+  border-radius: 4px;
+  font-size: 14px;
+  transition: box-shadow 0.3s ease;
+}
+
+.nav-buttons a:hover {
+  box-shadow: 0 0 8px red;
+}
+</style>
+
+<div class="category-section">
+
+  <h1>Browse Categories</h1>
+
+  <!-- Alphabet Filter -->
+  <div class="nav-buttons">
+    A-Z:
+    <a href="#A">A</a>
+    <a href="#B">B</a>
+    <a href="#C">C</a>
+    <a href="#D">D</a>
+    <a href="#E">E</a>
+    <a href="#F">F</a>
+    <!-- Add as needed -->
+  </div>
+
+  <!-- Dewey Filters -->
+  <div class="nav-buttons">
+    By Topic:
+    <a href="#dewey-400">Language</a>
+    <a href="#dewey-500">Pure Science</a>
+    <a href="#dewey-600">Technology</a>
+    <a href="#dewey-800">Literature</a>
+    <a href="#dewey-900">History</a>
+  </div>
+
+  <!-- Dewey Sections Example -->
+  <h2 id="dewey-400">400 – Language</h2>
+  <div class="category-grid">
+    <a href="/search/label/English">English</a>
+    <a href="/search/label/Swahili">Swahili</a>
+    <a href="/search/label/Verbs">Verbs</a>
+    <a href="/search/label/Nouns">Nouns</a>
+  </div>
+
+  <h2 id="dewey-500">500 – Pure Science</h2>
+  <div class="category-grid">
+    <a href="/search/label/Biology">Biology</a>
+    <a href="/search/label/Physics">Physics</a>
+    <a href="/search/label/Chemistry">Chemistry</a>
+  </div>
+
+  <h2 id="dewey-600">600 – Technology</h2>
+  <div class="category-grid">
+    <a href="/search/label/Computers">Computers</a>
+    <a href="/search/label/Engineering">Engineering</a>
+  </div>
+
+  <h2 id="dewey-800">800 – Literature</h2>
+  <div class="category-grid">
+    <a href="/search/label/Poetry">Poetry</a>
+    <a href="/search/label/Fiction">Fiction</a>
+  </div>
+
+  <h2 id="dewey-900">900 – History</h2>
+  <div class="category-grid">
+    <a href="/search/label/African%20History">African History</a>
+    <a href="/search/label/World%20War%20II">World War II</a>
+  </div>
+
+  <!-- Alphabet Section -->
+  <h2 id="A">Categories Starting with A</h2>
+  <div class="category-grid">
+    <a href="/search/label/Animals">Animals</a>
+    <a href="/search/label/Agriculture">Agriculture</a>
+  </div>
+
+</div>
