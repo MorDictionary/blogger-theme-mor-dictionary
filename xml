@@ -22,25 +22,20 @@
     <title><data:view.title.escaped/></title>
     <b:include data='blog' name='all-head-content'/>
 
- <!-- Favicon for all browsers -->
-<link href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkzcKDEuHqYjcmGcvZkdsrYWZg6gYsJUS5wygCjCuVd7kflglsd8IGPgKvMkA6zOZJy_icwQByg_RYj9X_x0U1u30ikUdeBfoVCd96fkY9EOxqfs62tJ34crxuRx5UH3J_3f9rrPJ7dIReSWv-4xByZbq8pff9P9D4qkSQTiq-dPEsD9u0Qkyg_YkUEwQ/s1600/WearYourDictionary%2016%20Favicon.png' rel='icon' sizes='16x16' type='image/png'/>
-<link href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY7CKkM-pE8kxkiCD2-XH3Je5JQOLTJ9QtPBPeiZneYpMcyJX4-w9H5LUm6xR2ja8CHXxv5yb8i0zKarDU-KmnVnc3zsUpcg34t0LC1jF6SrMyOCxh8A-WKZLQJdO8XS6wRQKSfBWi4AkR-4RZZRLDWs01WgtoJKhCg-1TwxQWDXOa7pHLNXIfD7ZLw30/s1600/WearYourDictionary%2032%20Favicon.png' rel='icon' sizes='32x32' type='image/png'/>
-<link href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9-w827fqB6dbhkewUPzAV2Q1haQGV8W1IRKm-3UYOelwktrbn8IWrQoHDaq8cA3qLsjIiEaKcdCyFXkjANpWDi-aTVqW9pBQ8x2MYvQmcvwvXhksLWBbIb1Cr42gafyqNwIDFw7ar58WnX4p2IZyyVdcK2MLSXP-I-A5V7_BlYCOYLIP-xY_m-RlXwcw/s1600/WearYourDictionary%2048%20Favicon.png' rel='icon' sizes='48x48' type='image/png'/>
-<link href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFORNtB8jM1mG8RzaomYta1w-7WlUTnjZaxIHxV2JdRmC-5vnIYurYNuvHc-tvoZ3cysC47E4pz6V_sqjFTblLYxtGbmuSZFMBaTWE36cvk6gUkTSVKf10l0bQSOuQXLV0qYjxBFLnepRMCSvfMnfPYafrPVLZwxb9EXHimqUceLYzRokV6XJVM13K4pM/s1600/WearYourDictionary%20192%20Favicon.png' rel='icon' sizes='192x192' type='image/png'/>
-<link href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKmKy3yPLWJQluu2Up-xr9_zRO2AjO7QR69bhwSR_HMCsOdDalMhr-9rq1EUD5H8YFq8En1QX3rimQF_QtGwk2WZS9ip-wXK9YXp_7yAQevRLDZqoddfeBA9he73GKgvBBJB2VJK6DVzd5FQRmxatXKbgtSqiXoSC7AfwKQBGrqcWiF6BBYW9GtOIWOcU/s320/WearYourDictionary%20512%20Favicon.png' rel='icon' sizes='512x512' type='image/png'/>
-
-<!-- Apple Touch Icon (for iOS devices) -->
-<link href='https://github.com/WearYourDictionary/wear-your-dictionary-blogger-theme/blob/36ef9eca13fb30554ce262cef4c6bc0104e0ee74/WearYourDictionary%20Blogspot%20Favicons/WearYourDictionary%20180%20Favicon.png' rel='apple-touch-icon' sizes='180x180'/>
-
-<!-- Android Chrome M39+ with site installed to homescreen -->
-<link href='https://github.com/WearYourDictionary/wear-your-dictionary-blogger-theme/blob/e2fce9a75cfbcaba745c5cfebac752e55957828f/WearYourDictionary%20Blogspot%20Favicons/WearYourDictionary%20192%20Favicon.png' rel='icon' sizes='192x192' type='image/png'/>
-
-<!-- Microsoft Tile for Windows 8.1 and up -->
-<meta content='https://imgur.com/QZ7pbY6' name='msapplication-TileImage'/>
-<meta content='#ffffff' name='msapplication-TileColor'/>
-
-<!-- Fallback for older browsers -->
-<link href='https://github.com/WearYourDictionary/wear-your-dictionary-blogger-theme/blob/f3b1e6ebf3789dea7109ed6400ba60ce317f993b/WearYourDictionary%20Blogspot%20Favicons/WearYourDictionary%2048%20Favicon.ico' rel='shortcut icon' type='image/x-icon'/>
+<!-- Custom Favicon from Neocities -->
+<link href='https://mordictionary.neocities.org/Images/Favicons/16%20Rounded%20MorDictionary%20Favicon.png' rel='icon' sizes='16x16' type='image/png'/>
+<link href='https://mordictionary.neocities.org/Images/Favicons/32%20Rounded%20MorDictionary%20Favicon.png' rel='icon' sizes='32x32' type='image/png'/>
+<link href='https://mordictionary.neocities.org/Images/Favicons/48%20Rounded%20MorDictionary%20Favicon.png' rel='icon' sizes='48x48' type='image/png'/>
+<link href='https://mordictionary.neocities.org/Images/Favicons/57%20Rounded%20MorDictionary%20Favicon.png' rel='apple-touch-icon' sizes='57x57'/>
+<link href='https://mordictionary.neocities.org/Images/Favicons/60%20Rounded%20MorDictionary%20Favicon.png' rel='apple-touch-icon' sizes='60x60'/>
+<link href='https://mordictionary.neocities.org/Images/Favicons/72%20Rounded%20MorDictionary%20Favicon.png' rel='apple-touch-icon' sizes='72x72'/>
+<link href='https://mordictionary.neocities.org/Images/Favicons/76%20Rounded%20MorDictionary%20Favicon.png' rel='apple-touch-icon' sizes='76x76'/>
+<link href='https://mordictionary.neocities.org/Images/Favicons/114%20Rounded%20MorDictionary%20Favicon.png' rel='apple-touch-icon' sizes='114x114'/>
+<link href='https://mordictionary.neocities.org/Images/Favicons/120%20Rounded%20MorDictionary%20Favicon.png' rel='apple-touch-icon' sizes='120x120'/>
+<link href='https://mordictionary.neocities.org/Images/Favicons/144%20Rounded%20MorDictionary%20Favicon.png' rel='apple-touch-icon' sizes='144x144'/>
+<link href='https://mordictionary.neocities.org/Images/Favicons/152%20Rounded%20MorDictionary%20Favicon.png' rel='apple-touch-icon' sizes='152x152'/>
+<link href='https://mordictionary.neocities.org/Images/Favicons/192%20MorDictionary%20Favicon.png' rel='icon' sizes='192x192' type='image/png'/>
+<link href='https://mordictionary.neocities.org/Images/Favicons/256%20MorDictionary%20Favicon.png' rel='icon' sizes='256x256' type='image/png'/>
 
     <meta content='#ffffff' name='msapplication-TileColor'/>
   <meta content='MorDictionary' property='og:title'/>
@@ -57,44 +52,34 @@
   
 <b:skin><![CDATA[
 :root {
-  /* Core Colors */
-  --color-text-main: #d0f9f7; 
-  --color-background: #050505; 
-  --color-border: #27f3e1; 
-  --color-link: #61fff2; 
-  --color-link-hover: #ffffff;
-
-  /* Typography */
-  --font-primary: 'IM Fell English', serif;
-  --font-secondary: 'IM Fell French Canon', serif;
-
-  /* Layout Dimensions */
-  --max-width-wrapper: 1400px;
-  --padding-general: 20px;
-  --main-container-max-width: 95%;
-  --border-width: 2px;
-  --sidebar-width: 250px;
-
-  /* Search Bar */
-  --color-search-default: #0a0a0a;
-  --color-search-hover: #0f0f0f;
-  --color-search-glow: rgba(103, 255, 240, 0.5); 
-  --color-on-background: #d0f9f7;
-  --color-on-surface: #ffffff;
-
-  /* Categories Page */
-  --category-item-bg: #111112;
-  --category-item-border: #1f1f20;
-  --category-item-color: #d0f9f7;
-  --category-item-hover-bg: #1a1a1b;
-  --link-hover-color: #ffffff;
-  --page-number-bg: #0a0a0a;
-  --page-number-border: #1f1f20;
-  --page-number-color: #d0f9f7;
-  --page-number-active-bg: #000000;
-  --page-number-active-color: #61fff2;
+    --color-text-main: #aefeff;
+    --color-background: #050505;
+    --color-border: #00fff7;
+    --color-link: #8effff;
+    --color-link-hover: #ffffff;
+    --color-on-surface: #ffffff;
+    --font-primary: 'IM Fell English', serif;
+    --font-secondary: 'IM Fell French Canon', serif;
+    --max-width-wrapper: 1400px;
+    --padding-general: 20px;
+    --main-container-max-width: 95%;
+    --border-width: 2px;
+    --sidebar-width: 250px;
+    --color-search-default: #aefeff;
+    --color-search-hover: #121212;
+    --color-search-glow: rgba(0, 255, 247, 0.3);
+    --color-on-background: #aefeff;
+    --category-item-bg: #101111;
+    --category-item-hover-bg: #1b1c1c;
+    --category-item-border: #1f1f20;
+    --category-item-color: #aefeff;
+    --link-hover-color: #ffffff;
+    --page-number-bg: #0a0a0a;
+    --page-number-border: #1f1f20;
+    --page-number-color: #aefeff;
+    --page-number-active-bg: #000000;
+    --page-number-active-color: #00fff7;
 }
-
 /* Global Styles */
 body {
   font-family: var(--font-primary);
@@ -124,9 +109,11 @@ p:hover, a:hover, span:hover {
     text-shadow: 0 0 10px rgba(103, 255, 240, 0.7);
     transition: text-shadow 0.3s ease;
 }
-
-h1, h2, h3, h4, h5, h6, p, a, span {
-    transition: text-shadow 0.3s ease;
+h1, h2, h3, h4, h5, h6,
+p, a:not(.material-icons):not(.material-symbols-rounded),
+span:not(.material-icons):not(.material-symbols-rounded) {
+  font-family: var(--font-primary);
+  transition: text-shadow 0.3s ease;
 }
 .header {
     width: 100%;
@@ -449,7 +436,7 @@ h1, h2, h3, h4, h5, h6, p, a, span {
   position: sticky;
   top: 40px;
   padding: 20px;
-  background: #050505;
+  background: linear-gradient(135deg, #050505, #0a0a0a);
   border-radius: 8px;
   color: #d0f9f7;
   height: fit-content;
@@ -462,6 +449,11 @@ h1, h2, h3, h4, h5, h6, p, a, span {
   border-image-source: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIIyyoPNZ3kV_IoX1wnHDBFpc-HUYxj0kVIY30Wu3NevQaHnLZGOedGxlt7hZo-SuEmzCFuH-zQ7642d5c9MsrAzvetLIaITydTFPUMda4-wAwIgs4R4RVZuDgwnz1f6HgoUn4wA4r7hhtbl10xDkqKblqSFM76hjuntUrGgsVv9BqWYpBRXP1MaWvdtkM/s320/Frame%20MorDictionary.png');
   border-image-slice: 40%;
   border-image-repeat: stretch;
+  box-shadow: 0 0 8px rgba(103, 255, 240, 0.08);
+  transition: box-shadow 0.3s ease;
+}
+.sidebar:hover {
+  box-shadow: 0 0 14px rgba(103, 255, 240, 0.25);
 }
 .sidebar h2 {
   font-size: 26px;
@@ -469,65 +461,58 @@ h1, h2, h3, h4, h5, h6, p, a, span {
   margin-top: 0;
   margin-bottom: 15px;
   text-align: center;
-  transition: font-size 0.3s ease;
   color: #d0f9f7;
+  text-shadow: 0 0 5px rgba(103, 255, 240, 0.2);
+  transition: font-size 0.3s ease, text-shadow 0.3s ease;
 }
 .sidebar a {
   font-size: 17px;
-  color: #d0f9f7;
+  color: #67fff0;
   text-decoration: none;
   font-weight: 500;
   transition: color 0.3s, text-shadow 0.3s, font-size 0.3s ease;
 }
-.sidebar:hover {
-  box-shadow: 0 0 15px rgba(103, 255, 240, 0.4);
-}
 .sidebar a:hover {
   color: #ffffff;
-  text-shadow: 0 0 5px rgba(103, 255, 240, 0.8);
+  text-shadow: 0 0 6px rgba(103, 255, 240, 0.8);
   font-size: 18px;
 }
-#BlogArchive1 h2:before {
-  font-family: 'Material Icons';
-  content: 'archive';
-  margin-right: 8px;
-  vertical-align: middle;
-  color: #67fff0;
-}
-#Label1 h2:before {
-  font-family: 'Material Icons';
-  content: 'label';
-  margin-right: 8px;
-  vertical-align: middle;
-  color: #67fff0;
-}
+/* Icon headers */
+#BlogArchive1 h2:before,
+#Label1 h2:before,
 #Translate1 h2:before {
   font-family: 'Material Icons';
-  content: 'translate';
   margin-right: 8px;
   vertical-align: middle;
-  color: #00f0ff; /* Neon cyan for consistency */
+  color: #67fff0;
+  text-shadow: 0 0 4px rgba(103, 255, 240, 0.3);
+}
+#BlogArchive1 h2:before { content: 'archive'; }
+#Label1 h2:before { content: 'label'; }
+#Translate1 h2:before { 
+  content: 'translate'; 
+  color: #00f0ff;
   text-shadow: 0 0 6px rgba(0, 240, 255, 0.6);
 }
 .random-post {
-  background-color: #050505;
+  background-color: #0a0a0a;
   padding: 20px;
   margin-bottom: 30px;
   border-radius: 8px;
-  box-shadow: 0 4px 12px rgba(0, 240, 255, 0.05);
+  box-shadow: 0 0 6px rgba(103, 255, 240, 0.06);
   color: #d0f9f7;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 .random-post:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 6px 18px rgba(0, 240, 255, 0.12);
+  transform: translateY(-2px);
+  box-shadow: 0 0 10px rgba(103, 255, 240, 0.12);
 }
 .random-post h2 {
   font-size: 24px;
   font-weight: bold;
   color: #d0f9f7;
   margin-bottom: 10px;
-  text-shadow: 0 0 4px rgba(0, 240, 255, 0.3);
+  text-shadow: 0 0 5px rgba(103, 255, 240, 0.2);
 }
 .random-post div {
   font-size: 16px;
@@ -535,23 +520,24 @@ h1, h2, h3, h4, h5, h6, p, a, span {
   color: #c8f4f1;
 }
 .random-post a {
-  color: #00f0ff;
+  color: #67fff0;
   text-decoration: none;
   transition: color 0.3s ease, text-shadow 0.3s ease;
 }
 .random-post a:hover {
   color: #ffffff;
-  text-shadow: 0 0 6px rgba(0, 240, 255, 0.8);
+  text-shadow: 0 0 8px rgba(103, 255, 240, 0.7);
   text-decoration: underline;
 }
 .popular-posts-container {
   width: 100%;
   max-width: 1180px;
-  margin: 0px 0px 0px -20px;
+  margin: 0 0 0 -20px;
   padding: 20px;
   border-radius: 8px;
   background-color: #0a0a0a;
-  box-shadow: 0 4px 12px rgba(0, 240, 255, 0.05);
+  box-shadow: 0 0 8px rgba(103, 255, 240, 0.05);
+  backdrop-filter: blur(1px);
 }
 .popular-posts-grid {
   display: flex;
@@ -561,11 +547,10 @@ h1, h2, h3, h4, h5, h6, p, a, span {
 }
 .popular-posts-grid li {
   flex: 0 0 50%;
-  box-sizing: border-box;
   border-radius: 8px;
-  background-color: #111;
+  background-color: #141414;
   color: #d0f9f7;
-  box-shadow: 0 4px 6px rgba(0, 240, 255, 0.05);
+  box-shadow: 0 0 6px rgba(103, 255, 240, 0.05);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   overflow: hidden;
   height: 150px;
@@ -574,12 +559,38 @@ h1, h2, h3, h4, h5, h6, p, a, span {
 }
 .popular-posts-grid li:hover {
   transform: translateY(-2px);
-  box-shadow: 0 6px 16px rgba(0, 240, 255, 0.15);
+  box-shadow: 0 0 12px rgba(103, 255, 240, 0.12);
 }
 /* Image Styling */
 .item-thumbnail {
-    flex: 0 0 50%;
-    height: 100%;
+  flex: 0 0 50%;
+  height: 100%;
+}
+.item-thumbnail img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: brightness(0.95) contrast(1.05);
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: crisp-edges;
+}
+/* Optional: Improve text appearance inside */
+.item-content {
+  flex: 0 0 50%;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.item-title {
+  font-size: 1.2rem;
+  color: #d0f9f7;
+  text-shadow: 0 0 5px rgba(103, 255, 240, 0.2);
+  margin-bottom: 6px;
+}
+.item-snippet {
+  font-size: 1rem;
+  color: #c8f4f1;
 }
 .item-thumbnail img {
     width: 100%;
@@ -619,347 +630,415 @@ h1, h2, h3, h4, h5, h6, p, a, span {
 }
 /* Popular Posts Heading */
 .popular-posts-container h2 {
-    background: repeating-linear-gradient(135deg, #131314, #2a2a2b 40%, #131314 80%);
-    margin-top: 20px;
-    opacity: 0.9;
-    padding: 20px;
-    text-align: center;
-    border-radius: 8px;
-    color: #ececeb;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    cursor: pointer;
-    font-size: 1.5rem;
-    margin-bottom: 20px;
+  background: repeating-linear-gradient(
+    135deg,
+    #0a0a0a,
+    #1a1a1b 40%,
+    #0a0a0a 80%
+  );
+  margin-top: 20px;
+  opacity: 0.95;
+  padding: 20px;
+  text-align: center;
+  border-radius: 8px;
+  color: #d0f9f7;
+  text-shadow: 0 0 6px rgba(103, 255, 240, 0.3);
+  box-shadow: 0 0 6px rgba(103, 255, 240, 0.06);
+  transition: transform 0.3s ease, box-shadow 0.3s ease, text-shadow 0.3s ease;
+  cursor: pointer;
+  font-size: 1.5rem;
+  margin-bottom: 20px;
 }
 .popular-posts-container h2:hover {
-    transform: scale(1.05);
-    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3);
+  transform: scale(1.03);
+  box-shadow: 0 0 14px rgba(103, 255, 240, 0.2);
+  text-shadow: 0 0 8px rgba(103, 255, 240, 0.6);
 }
-/* Blog Post Styles */
+/* Blog Post Container */
 .post-outer-container {
-    background: #080808;
-    padding: 20px;
-    margin-bottom: 20px;
-    border-radius: 8px;
-    transition: transform 0.3s ease;
+  background: #0a0a0a;
+  color: #d0f9f7;
+  padding: var(--padding-general);
+  margin-bottom: 20px;
+  border: var(--border-width) solid rgba(103, 255, 240, 0.15);
+  border-radius: 8px;
+  font-family: var(--font-primary);
+  transition: transform 0.3s ease, box-shadow 0.3s ease, background 0.3s ease;
+  box-shadow: 0 0 8px rgba(103, 255, 240, 0.05);
 }
 .post-outer-container:hover {
-    transform: translateY(-3px);
+  transform: translateY(-3px);
+  box-shadow: 0 0 12px rgba(103, 255, 240, 0.2);
+  background: #111112;
 }
+/* Post Title */
 .post-title {
-    font-size: 24px;
-    font-weight: bold;
-    color: var(--color-text-main);
-    margin-bottom: 12px;
+  font-size: 24px;
+  font-weight: bold;
+  color: #d0f9f7;
+  margin-bottom: 12px;
+  font-family: var(--font-secondary);
 }
 .post-title a {
-    color: var(--color-link);
-    text-decoration: none;
+  color: #67fff0;
+  text-decoration: none;
+  transition: color 0.2s ease, text-shadow 0.2s ease;
 }
 .post-title a:hover {
-    color: var(--color-link-hover);
-    text-decoration: underline;
+  color: #ffffff;
+  text-shadow: 0 0 6px rgba(103, 255, 240, 0.6);
+  text-decoration: underline;
 }
+/* Stylized Featured Entry Title */
+.post-title.entry-title {
+  background: linear-gradient(135deg, #0a0a0a, #141414);
+  margin-top: 20px;
+  opacity: 0.97;
+  padding: 20px;
+  text-align: center;
+  border-radius: 8px;
+  color: #d0f9f7;
+  font-family: 'IM Fell English', serif !important;
+  text-shadow: 0 0 6px rgba(103, 255, 240, 0.4);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+.post-title.entry-title:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 18px rgba(103, 255, 240, 0.35);
+}
+/* Post Body */
 .post-body {
-    font-size: 16px;
-    line-height: 1.6;
-    color: var(--color-text-main);
-    margin-bottom: 20px;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #d0f9f7;
+  margin-bottom: 20px;
+  font-family: var(--font-primary);
 }
+.post-body img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.2em auto;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(103, 255, 240, 0.05);
+}
+/* Author */
 .post-author {
-    font-size: 14px;
-    color: var(--color-text-main);
-    margin-bottom: 10px;
+  font-size: 14px;
+  color: #d0f9f7;
+  margin-bottom: 10px;
 }
 .post-author a {
-    color: var(--color-link);
-    text-decoration: none;
+  color: #67fff0;
+  text-decoration: none;
+  transition: color 0.2s ease;
 }
 .post-author a:hover {
-    text-decoration: underline;
+  color: #ffffff;
+  text-shadow: 0 0 4px rgba(103, 255, 240, 0.4);
+  text-decoration: underline;
 }
+/* Footer (labels, date, etc.) */
 .post-footer {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-    font-size: 14px;
-    color: var(--color-text-main);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  font-size: 14px;
+  color: #d0f9f7;
 }
 .post-labels,
 .post-location,
 .post-timestamp {
-    display: inline-block;
+  display: inline-block;
 }
 .post-labels a,
 .post-location a {
-    color: var(--color-link);
-    text-decoration: none;
-    margin-right: 5px;
+  color: #67fff0;
+  text-decoration: none;
+  margin-right: 5px;
+  transition: color 0.2s ease;
 }
 .post-labels a:hover,
 .post-location a:hover {
-    text-decoration: underline;
+  color: #ffffff;
+  text-shadow: 0 0 4px rgba(103, 255, 240, 0.4);
+  text-decoration: underline;
 }
-.post-title.entry-title {
-    background: repeating-linear-gradient(135deg, #131314, #2a2a2b 40%, #131314 80%);
-    margin-top: 20px;
-    opacity: 0.9;
-    padding: 20px;
-    text-align: center;
-    border-radius: 8px;
-    color: #ececeb;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    cursor: pointer;
-    font-size: 1.5rem;
-    margin-bottom: 20px;
+/* Embedded YouTube Iframes */
+iframe[src*="youtube.com"] {
+  border: 3px solid #00f0ff !important;
+  border-radius: 12px !important;
+  box-shadow: 0 0 16px rgba(0, 240, 255, 0.3) !important;
+  background-color: #050505 !important;
+  display: block !important;
+  margin: 30px auto !important;
+  transition: transform 0.3s ease, box-shadow 0.3s ease !important;
+  max-width: 100% !important;
 }
-.post-title.entry-title:hover {
-    transform: scale(1.05);
-    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3);
+iframe[src*="youtube.com"]:hover {
+  transform: scale(1.03) !important;
+  box-shadow: 0 0 24px rgba(0, 240, 255, 0.6) !important;
 }
-/* Blog Pager Container */
+/* Blog Pager Navigation */
 .blog-pager {
-    display: flex;
-    justify-content: space-between; /* Ensures Previous, Home, and Next Post links are spaced apart */
-    align-items: center; /* Vertically centers the text */
-    padding: 20px 0;
-    max-width: 100%;
-    margin: 0 auto; /* Center container within its parent */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0;
+  max-width: 100%;
+  margin: 0 auto;
 }
-/* Previous and Next Post Links */
-.blog-pager-older-link, .blog-pager-newer-link {
-    font-size: 1.5rem; /* Increase the font size */
-    font-weight: bold;
-    text-decoration: none;
-    color: #ececeb;
-    padding: 10px 20px;
-    border-radius: 8px;
-    background-color: #131314; /* Background color */
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
+.blog-pager-older-link,
+.blog-pager-newer-link {
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-decoration: none;
+  color: #67fff0;
+  padding: 10px 20px;
+  border-radius: 8px;
+  background-color: #101820;
+  box-shadow: 0 0 8px rgba(103, 255, 240, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease, color 0.3s ease;
 }
-.blog-pager-older-link:hover, .blog-pager-newer-link:hover {
-    transform: scale(1.05);
-    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3);
+.blog-pager-older-link:hover,
+.blog-pager-newer-link:hover {
+  transform: scale(1.05);
+  color: #ffffff;
+  box-shadow: 0 0 16px rgba(103, 255, 240, 0.4);
 }
-/* Home Link */
+/* Home Link Button */
 .home-link {
-    font-size: 1.8rem; /* Larger font for Home link */
-    font-weight: bold;
-    text-decoration: none;
-    color: #ececeb;
-    padding: 10px 30px;
-    border-radius: 8px;
-    background-color: #1c1c1e;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  font-size: 1.8rem !important;
+  font-weight: bold !important;
+  text-decoration: none !important;
+  color: #d0f9f7 !important;
+  padding: 12px 32px !important;
+  border-radius: 10px !important;
+  background-color: #0a0a0a !important;
+  font-family: 'IM Fell English', serif !important;
+  text-shadow: 0 0 4px rgba(103, 255, 240, 0.25);
+  box-shadow: 0 0 10px rgba(0, 240, 255, 0.05);
+  transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease, color 0.3s ease !important;
 }
 .home-link:hover {
-    transform: scale(1.1);
-    box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.3);
+  transform: scale(1.05) !important;
+  background-color: #00f0ff !important;
+  color: #050505 !important;
+  box-shadow: 0 0 16px rgba(0, 240, 255, 0.4) !important;
 }
+/* Feed Link Button */
 .feed-link {
-  display: inline-block;
-  background-color: #131314; /* Black background */
-  color: #ECECEB; /* White text color */
-  padding: 5px 10px; /* Reduced padding for a smaller button */
-  text-decoration: none;
-  margin-left: 399px; /* Retaining the original margin */
-  border-radius: 5px;
-  font-family: 'IM Fell English', serif; /* Apply the IM Fell English font */
-  font-size: 14px; /* Smaller font size */
-  font-weight: bold;
-  transition: background-color 0.3s ease, color 0.3s ease; /* Transition for color changes */
+  display: inline-block !important;
+  background-color: #0f0f0f !important;
+  color: #c8f4f1 !important;
+  padding: 6px 14px !important;
+  text-decoration: none !important;
+  margin-left: 399px !important;
+  border-radius: 6px !important;
+  font-family: 'IM Fell English', serif !important;
+  font-size: 14px !important;
+  font-weight: bold !important;
+  box-shadow: 0 0 6px rgba(0, 240, 255, 0.1);
+  text-shadow: 0 0 4px rgba(0, 240, 255, 0.2);
+  transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease, color 0.3s ease !important;
 }
-
 .feed-link:hover {
-  background-color: white; /* Change background to white on hover */
-  color: black; /* Change text color to black on hover */
+  transform: scale(1.05) !important;
+  background-color: #00f0ff !important;
+  color: #050505 !important;
+  box-shadow: 0 0 14px rgba(0, 240, 255, 0.4) !important;
 }
-
 .feed-link:active {
-  background-color: #e0e0e0; /* Optional: light gray for active state */
-  color: black; /* Text color when active */
+  background-color: #67fff0 !important;
+  color: #050505 !important;
+  box-shadow: 0 0 8px rgba(103, 255, 240, 0.5) !important;
+  transform: scale(1) !important;
 }
-/* Comment Styles */
-.comments {
-    margin-top: 30px;
-    padding: 20px;
-    background-color: #131314;
-    border-radius: 8px;
-    color: #ececeb;
+.comments, #comments, .comment-section {
+  margin-top: 30px;
+  padding: 20px;
+  background-color: #030408; /* very dark with subtle blue */
+  border-radius: 8px;
+  color: #ffffff;
+  font-family: 'IM Fell English', serif;
+  transition: box-shadow 0.3s ease;
+}
+.comments:hover, #comments:hover, .comment-section:hover {
+  box-shadow: 0 0 15px 3px #aefeff; /* pale neon blue glow on hover */
 }
 .comment-form {
-    margin-top: 20px;
-    background-color: #1c1c1e;
-    padding: 20px;
-    border-radius: 8px;
-    color: #ececeb;
+  margin-top: 20px;
+  background-color: transparent !important;
+  padding: 20px;
+  border-radius: 8px;
+  color: #ffffff;
+  box-shadow: none;
+  font-weight: normal;
 }
 .comment-author {
-    color: #ffffff;
-    font-weight: bold;
-    margin-bottom: 5px;
+  color: #ffffff;
+  font-weight: bold;
+  margin-bottom: 5px;
 }
 .comment-body {
-    margin-bottom: 15px;
-    font-size: 15px;
-    line-height: 1.6;
-    color: #d1d1d1;
+  margin-bottom: 15px;
+  font-size: 15px;
+  line-height: 1.6;
+  color: #aefeff;
 }
 .comment-timestamp {
-    font-size: 12px;
-    color: #888888;
+  font-size: 12px;
+  color: #888888;
 }
 #comment-holder .comment-replybox-single,
 #comment-holder .comment-replybox-thread {
-    background-color: #1c1c1e;
-    color: #ececeb;
-    border-radius: 8px;
-    padding: 15px;
-    margin-top: 10px;
+  background-color: #1b1c1c;
+  color: #ffffff;
+  border-radius: 8px;
+  padding: 15px;
+  margin-top: 10px;
 }
 .comments .blogger-button,
 .comments .comment-action {
-    background-color: #ececeb;
-    color: #131314;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s, color 0.3s;
+  background-color: #ffffff;
+  color: #050505;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
 }
 .comments .blogger-button:hover,
 .comments .comment-action:hover {
-    background-color: #ffffff;
-    color: #131314;
+  background-color: #ffffff;
+  color: #050505;
 }
 .comments input[type="text"],
 .comments input[type="email"],
 .comments textarea {
-    background-color: #2c2c2e;
-    color: #ececeb;
-    border: 1px solid #444444;
-    border-radius: 5px;
-    padding: 10px;
-    width: 100%;
-    margin-bottom: 15px;
+  background-color: #2c2c2e;
+  color: #ffffff;
+  border: 1px solid #444444;
+  border-radius: 5px;
+  padding: 10px;
+  width: 100%;
+  margin-bottom: 15px;
+  font-family: 'IM Fell English', serif;
 }
 .comments input::placeholder,
 .comments textarea::placeholder {
-    color: #888888;
+  color: #888888;
 }
 .comments a {
-    color: #00bcd4;
-    text-decoration: none;
-    transition: color 0.3s, text-shadow 0.3s;
+  background-color: transparent;
+  color: #8effff;
+  text-decoration: none;
+  transition: color 0.3s, text-shadow 0.3s;
+  text-shadow: 0 0 3px #8effff;
 }
 .comments a:hover {
-    text-decoration: none;
-    color: #03a9f4;
-    text-shadow: 0 0 5px #03a9f4;
+  color: #ffffff;
+  text-shadow: 0 0 8px #8effff;
+  background-color: transparent;
 }
 .comments .comment-content .status-msg-wrap {
-    background-color: #333333;
-    padding: 15px;
-    border-radius: 5px;
-    color: #ff6666;
+  background-color: #333333;
+  padding: 15px;
+  border-radius: 5px;
+  color: #ff6666;
 }
 .comments .comment-block {
-    margin-bottom: 20px;
-    padding-bottom: 15px;
-    border-bottom: 1px solid #444444;
+  margin-bottom: 20px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #444444;
 }
-/* Add "Comments" before the comment section */
 .comments::before {
-    content: "Comments";
-    display: block;
-    font-size: 1.5rem;
-    font-weight: bold;
-    color: #ececeb; /* Adjust color to your design */
-    margin-bottom: 10px;
-    text-align: left; /* Adjust text alignment if needed */
+  content: "Comments";
+  display: block;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #aefeff; 
+  margin-bottom: 10px;
+  text-align: left;
 }
 .comments h4 {
-    display: none;
+  display: none;
 }
-/* Titles For Pages */
 .page-title {
   display: none;
 }
-/* Main content adjustments for Categories page */
 .main-content {
-  max-width: 100%; /* Adjust to fit within the main content container */
+  max-width: 100%;
   margin: 0 auto;
-  padding: 20px;
-  background-color: #131314; /* Matches the page background */
-  border-radius: 8px; /* Rounded corners */
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Soft shadow for depth */
+  padding: var(--padding-general);
+  background-color: var(--color-background);
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
-/* Footer Styles */
 .footer-container {
-    width: 100%;
-    position: relative;
-    background: linear-gradient(180deg, #080808 0%, #0a0a0a 100%);
-    color: #ececeb;
-    padding: 30px 0;
-    margin-top: 20px;
-    z-index: 1;
-    border-top: 2px solid #00f0ff33;
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #080808 0%, #0a0a0a 100%);
+  color: var(--color-on-surface);
+  padding: 30px 0;
+  margin-top: 20px;
+  z-index: 1;
+  border-top: 2px solid rgba(0, 240, 255, 0.2); /* soft cyan border */
 }
 .footer-container::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: radial-gradient(circle at top left, rgba(0, 240, 255, 0.03), transparent 70%);
-    z-index: -1;
-    pointer-events: none;
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: radial-gradient(circle at top left, rgba(0, 240, 255, 0.03), transparent 70%);
+  z-index: -1;
+  pointer-events: none;
 }
 #socket {
-    width: 100%;
-    max-width: var(--max-width-wrapper);
-    margin: 0 auto;
-    padding: 0 var(--padding-general);
+  width: 100%;
+  max-width: var(--max-width-wrapper);
+  margin: 0 auto;
+  padding: 0 var(--padding-general);
 }
 .footer-content {
-    display: flex;
-    justify-content: flex-end;
-    gap: 40px;
+  display: flex;
+  justify-content: flex-end;
+  gap: 40px;
 }
 .footer-column {
-    flex: 0 1 auto;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
+  flex: 0 1 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
 }
 .footer-column h3 {
-    margin-bottom: 15px;
-    font-size: 1.2em;
-    color: #ececeb;
-    text-shadow: 0 0 2px #00f0ff88, 0 0 6px #00f0ff44;
+  margin-bottom: 15px;
+  font-size: 1.2em;
+  color: var(--color-on-surface);
+  text-shadow: 0 0 2px var(--color-border), 0 0 6px rgba(39, 243, 225, 0.27);
 }
-/* Footer Links */
 .footer-links {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
 .footer-links a {
-    color: #ececeb;
-    text-decoration: none;
-    font-size: 0.9em;
-    padding: 8px 12px;
-    border-radius: 5px;
-    background-color: #131314;
-    border: 1px solid transparent;
-    transition: background-color 0.3s, color 0.3s, text-shadow 0.3s, border-color 0.3s;
+  color: var(--color-on-surface);
+  text-decoration: none;
+  font-size: 0.9em;
+  padding: 8px 12px;
+  border-radius: 5px;
+  background-color: var(--category-item-bg);
+  border: 1px solid transparent;
+  transition: background-color 0.3s, color 0.3s, text-shadow 0.3s, border-color 0.3s;
 }
 .footer-links a:hover {
-    color: #00f0ff;
-    background-color: #0f0f10;
-    border-color: #00f0ff66;
-    text-shadow: 0 0 6px #00f0ff, 0 0 12px #00f0ff33;
+  color: var(--color-link);
+  background-color: var(--category-item-hover-bg);
+  border-color: rgba(97, 255, 242, 0.4);
+  text-shadow: 0 0 6px var(--color-link), 0 0 12px rgba(97, 255, 242, 0.2);
 }
 /* Copyright */
 .copyright {
@@ -967,21 +1046,24 @@ h1, h2, h3, h4, h5, h6, p, a, span {
     text-align: right;
     margin-bottom: 15px;
     color: #ececeb;
-    text-shadow: 0 0 2px #00f0ff33;
+    text-shadow: 0 0 2px rgba(0, 240, 255, 0.2); /* Changed from hex with alpha */
 }
+
 .copyright a {
-    color: #ececeb;
+    color: #f0f0f0; /* Slightly lighter for better contrast */
     text-decoration: none;
     padding: 8px 12px;
     border-radius: 5px;
-    background-color: #131314;
+    background-color: #1a1a1b; /* Slightly lighter background for contrast */
     transition: background-color 0.3s, color 0.3s, text-shadow 0.3s;
 }
+
 .copyright a:hover {
     color: #00f0ff;
     background-color: #0f0f10;
-    text-shadow: 0 0 6px #00f0ff, 0 0 10px #00f0ff55;
+    text-shadow: 0 0 6px #00f0ff, 0 0 10px rgba(0, 240, 255, 0.33);
 }
+
 /* Back to Top Button */
 #back-to-top {
     background-color: #131314;
@@ -989,8 +1071,8 @@ h1, h2, h3, h4, h5, h6, p, a, span {
     text-decoration: none;
     padding: 10px 20px;
     border-radius: 5px;
-    border: 1px solid #00f0ff33;
-    font-family: 'IM Fell English', serif;
+    border: 1px solid rgba(0, 240, 255, 0.2);
+    font-family: 'IM Fell English', Georgia, serif; /* Added fallback font */
     font-size: 16px;
     transition: background-color 0.3s, color 0.3s, text-shadow 0.3s, border-color 0.3s;
     cursor: pointer;
@@ -998,8 +1080,54 @@ h1, h2, h3, h4, h5, h6, p, a, span {
 #back-to-top:hover {
     background-color: #0f0f10;
     color: #ffffff;
-    border-color: #00f0ff88;
-    text-shadow: 0 0 8px #00f0ff, 0 0 16px #00f0ff66;
+    border-color: rgba(0, 240, 255, 0.53);
+    text-shadow: 0 0 8px #00f0ff, 0 0 16px rgba(0, 240, 255, 0.4);
+}
+#music-footer-bar {
+  width: 100%;
+  margin-top: 16px;
+  padding: 6px 16px 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+
+  background: transparent;
+  border-top: 1px solid rgba(0, 240, 255, 0.25);
+  color: #d0f9f7;
+  font-size: 0.95em;
+}
+#music-footer-bar button {
+  background: transparent;
+  color: #67fff0;
+  border: 1px solid #67fff0;
+  padding: 5px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 0.95em;
+
+  transition: background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
+}
+#music-footer-bar button:hover {
+  background-color: rgba(103, 255, 240, 0.1);
+  color: #ffffff;
+  box-shadow: 0 0 4px #67fff0;
+}
+#track-label {
+  max-width: 300px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: center;
+  color: #d0f9f7;
+  text-decoration: none;
+
+  transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+#track-label:hover {
+  color: #67fff0;
+  text-shadow: 0 0 6px #67fff0;
 }
 /* Responsive Styling */
 /* Hide navigation menu when viewport width is 1457px or smaller */
@@ -1024,7 +1152,7 @@ h1, h2, h3, h4, h5, h6, p, a, span {
   }
 
   .search-bar {
-    width: 100%; /* Make the search bar responsive to the container */
+    width: 100%; 
   }
 }
 @media (max-width: 1437px) {
@@ -1071,6 +1199,23 @@ h1, h2, h3, h4, h5, h6, p, a, span {
     padding: 10px;
     border-radius: 50%;
   }
+@media (max-width: 600px) {
+  .post-body img {
+    max-width: 100% !important;
+    width: 100% !important;
+    height: auto !important;
+    display: block;
+    margin: 1em auto;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(103, 255, 240, 0.05);
+  }
+
+  .post-body img[width],
+  .post-body img[height] {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
 
 /* When sidebar is open, display it on top of everything */
 .sidebar.open {
@@ -1084,7 +1229,6 @@ h1, h2, h3, h4, h5, h6, p, a, span {
   z-index: 1000; /* Above the content */
   overflow-y: auto; /* Allow scrolling for the sidebar */
 }
-
 /* Increase text size inside the sidebar */
 .sidebar.open * {
   font-size: 1em; /* Adjust as needed to make text bigger */
@@ -1110,7 +1254,7 @@ h1, h2, h3, h4, h5, h6, p, a, span {
 <div class='header-container'>
   <header class='header'>
     <div class='logo-container'>
-      <a href='mordictionary.blogspot.com/' id='home-page-link'>
+      <a href='https://mordictionary.blogspot.com/' id='home-page-link'>
         <img alt='WearYourDictionary Logo' class='header-logo' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm4EuvT7ePdt3wfAV1dBsUPpKV9FMemvOSiGPIFjSWZvKEpGP1SB6vs6GCil_-WDue-dp0Hak8HAe43FAggNhKzj_48a5hHeNAIf2Ny8NvwWQZkgDDM942FzNbM0dBPRP_Zz3FpX_zSs11drQ0WkpddTpH8WdUPU17J3FHVwCruAN0Ytn-6GlfRUdgLcxh/s320/image.png' srcset='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm4EuvT7ePdt3wfAV1dBsUPpKV9FMemvOSiGPIFjSWZvKEpGP1SB6vs6GCil_-WDue-dp0Hak8HAe43FAggNhKzj_48a5hHeNAIf2Ny8NvwWQZkgDDM942FzNbM0dBPRP_Zz3FpX_zSs11drQ0WkpddTpH8WdUPU17J3FHVwCruAN0Ytn-6GlfRUdgLcxh/s320/image.png 2x'>
         </img>
           </a>
@@ -1129,66 +1273,6 @@ h1, h2, h3, h4, h5, h6, p, a, span {
       </form>
     </div>
   </div>
-    <!-- Page Widget at the Bottom with External Link -->
-    <b:section class='page-widget-header' id='page-widget-header-bottom' showaddelement='yes'>
-      <b:widget id='PageList1' locked='false' title='Pages' type='PageList' version='2' visible='true'>
-        <b:widget-settings>
-          <b:widget-setting name='pageListJson'><![CDATA[{"home":{"href":"http://mordictionary.blogspot.com/","position":0,"title":"Home"}}]]></b:widget-setting>
-          <b:widget-setting name='homeTitle'>Home</b:widget-setting>
-        </b:widget-settings>
-        <b:includable id='main'>
-          <ul class='page-list' style='list-style-type: none; margin: 0; padding: 0; display: flex; justify-content: center; width: 100%;'>
-            <!-- Loop through internal blog pages -->
-            <b:loop index='i' values='data:links' var='link'>
-              <li style='margin: 0 10px;'><a expr:href='data:link.href'><data:link.title/></a></li>
-            </b:loop>
-            
-            <!-- Manually Add External Link Here -->
-            <li style='margin: 0 10px;'><a href='https://wearyourdictionary.blogspot.com/' target='_blank'>WearYourDictionary</a></li>
-          </ul>
-        </b:includable>
-        <b:includable id='content'>
-  <div class='widget-content'>
-    <b:include name='pageList'/>
-  </div>
-</b:includable>
-        <b:includable id='overflowButton'>
-  <b:include name='verticalMoreIcon'/>
-</b:includable>
-        <b:includable id='overflowablePageList'>
-  <div class='overflowable-container'>
-    <div class='overflowable-contents'>
-      <div class='container'>
-        <b:with value='true' var='overflow'>
-        <b:with value='&quot;tabs&quot;' var='pageListClass'>
-          <b:include name='pageList'/>
-        </b:with>
-        </b:with>
-      </div>
-    </div>
-    <div class='overflow-button hidden'>
-      <b:include name='overflowButton'/>
-    </div>
-  </div>
-</b:includable>
-        <b:includable id='pageLink'>
-  <li>
-    <b:class cond='data:overflow' name='overflowable-item'/>
-    <b:class cond='data:link.isCurrentPage' name='selected'/>
-
-    <a expr:href='data:link.href'><data:link.title/></a>
-  </li>
-</b:includable>
-        <b:includable id='pageList'>
-  <ul>
-    <b:class cond='data:pageListClass' expr:name='data:pageListClass'/>
-    <b:loop values='data:links' var='link'>
-      <b:include name='pageLink'/>
-    </b:loop>
-  </ul>
-</b:includable>
-      </b:widget>
-    </b:section>
    <!-- Notification Bell Section -->
 <nav class='bell-container'>
     <div class='notification-container'>
@@ -1513,9 +1597,9 @@ h1, h2, h3, h4, h5, h6, p, a, span {
                       <b:widget-setting name='frequency'>MONTHLY</b:widget-setting>
                     </b:widget-settings>
                     <b:includable id='main'>
-  <b:if cond='data:title != &quot;&quot;'>
-    <h2><data:title/></h2>
-  </b:if>
+<b:if cond='data:title != &quot;&quot;'>
+  <h2><a href='https://mordictionary.blogspot.com/p/archive.html'><data:title/></a></h2>
+</b:if>
   <div class='widget-content'>
   <div id='ArchiveList'>
   <div expr:id='data:widget.instanceId + &quot;_ArchiveList&quot;'>
@@ -1727,7 +1811,7 @@ h1, h2, h3, h4, h5, h6, p, a, span {
 
       <b:if cond='data:view.isHomepage or data:view.isArchive'>
   <b:section class='popular-posts-container' id='PopularPostsSection'>
-    <b:widget cond='data:view.isSingleItem and data:posts any (p =&gt; p.id != data:view.postId)' id='PopularPosts1' locked='true' title='Popular Posts' type='PopularPosts' version='1'>
+    <b:widget id='PopularPosts1' locked='true' title='Popular Posts' type='PopularPosts' version='1'>
       <b:widget-settings>
         <b:widget-setting name='numItemsToShow'>4</b:widget-setting>
         <b:widget-setting name='showThumbnails'>true</b:widget-setting>
@@ -2020,6 +2104,7 @@ h1, h2, h3, h4, h5, h6, p, a, span {
             <b:widget-setting name='commentLabel'>Comment</b:widget-setting>
             <b:widget-setting name='style.textcolor'>#ffffff</b:widget-setting>
             <b:widget-setting name='showShareButtons'>true</b:widget-setting>
+            <b:widget-setting name='authorLabel'>By MorDictionary</b:widget-setting>
             <b:widget-setting name='showCommentLink'>true</b:widget-setting>
             <b:widget-setting name='style.urlcolor'>#ffffff</b:widget-setting>
             <b:widget-setting name='showAuthor'>true</b:widget-setting>
@@ -2031,7 +2116,7 @@ h1, h2, h3, h4, h5, h6, p, a, span {
             <b:widget-setting name='showAuthorProfile'>true</b:widget-setting>
             <b:widget-setting name='style.layout'>1x1</b:widget-setting>
             <b:widget-setting name='showLabels'>true</b:widget-setting>
-            <b:widget-setting name='showLocation'>false</b:widget-setting>
+            <b:widget-setting name='showLocation'>true</b:widget-setting>
             <b:widget-setting name='postLabelsLabel'/>
             <b:widget-setting name='showTimestamp'>true</b:widget-setting>
             <b:widget-setting name='postsPerAd'>1</b:widget-setting>
@@ -2078,12 +2163,13 @@ h1, h2, h3, h4, h5, h6, p, a, span {
       </b:if>
     </div>
 
-    <!-- navigation -->
-    <b:include name='nextprev'/>
+<!-- navigation -->
+<b:include name='nextprev'/>
 
- <div class='widget-content' id='Feed1_feedItemListDisplay'>
-    <!-- Content will be populated by JavaScript -->
+<div class='widget-content' id='Feed1_feedItemListDisplay'>
+  <!-- Content will be populated by JavaScript -->
 </div>
+
 
 <!-- feed link -->
 <a class='feed-link' href='https://wearyourdictionary.blogspot.com/feeds/posts/default' target='_blank' type='application/atom+xml'>Raw RSS Feed</a>
@@ -2662,35 +2748,39 @@ h1, h2, h3, h4, h5, h6, p, a, span {
 </b:includable>
           <b:includable id='nextPageLink'>
   <a class='blog-pager-older-link' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-older-link&quot;' expr:title='data:messages.olderPosts'>
-    Previous Post: <data:olderPageTitle/>
+    <data:messages.olderPosts/>
   </a>
 </b:includable>
-          <b:includable id='nextprev'>   
-<div class='blog-pager' id='blog-pager'>
+          <b:includable id='nextprev'>
+  <div class='blog-pager' id='blog-pager'>
     <!-- Previous Post Link -->
-    <span id='blog-pager-older-link'>
-        <a class='blog-pager-older-link' href='https://wearyourdictionary.blogspot.com/'>
-            Previous Post: <!--Can't find substitution for tag [olderPageTitle]-->
+    <b:if cond='data:olderPageUrl'>
+      <span id='blog-pager-older-link'>
+        <a class='blog-pager-older-link' expr:href='data:olderPageUrl' expr:title='data:olderPageTitle'>
+          Previous Post: <data:olderPageTitle/>
         </a>
-    </span>
+      </span>
+    </b:if>
 
     <!-- Home Link -->
-    <a class='home-link' href='https://wearyourdictionary.blogspot.com/'>Home</a>
+    <a class='home-link' href='https://mordictionary.blogspot.com/'>Home</a>
 
     <!-- Next Post Link -->
-    <span id='blog-pager-newer-link'>
-        <a class='blog-pager-newer-link' href='https://wearyourdictionary.blogspot.com/' id='Blog1_blog-pager-newer-link' title=''>
-            Next Post: <!--Can't find substitution for tag [newerPageTitle]-->
+    <b:if cond='data:newerPageUrl'>
+      <span id='blog-pager-newer-link'>
+        <a class='blog-pager-newer-link' expr:href='data:newerPageUrl' expr:title='data:newerPageTitle'>
+          Next Post: <data:newerPageTitle/>
         </a>
-    </span>
-</div>
-
-    <!-- Mobile Link -->
-    <b:if cond='data:mobileLinkUrl'>
-      <div class='blog-mobile-link'>
-        <a expr:href='data:mobileLinkUrl'><data:mobileLinkMsg/></a>
-      </div>
+      </span>
     </b:if>
+  </div>
+
+  <!-- Mobile Link -->
+  <b:if cond='data:mobileLinkUrl'>
+    <div class='blog-mobile-link'>
+      <a expr:href='data:mobileLinkUrl'><data:mobileLinkMsg/></a>
+    </div>
+  </b:if>
 
   <div class='clear'/>
 </b:includable>
@@ -3085,7 +3175,6 @@ h1, h2, h3, h4, h5, h6, p, a, span {
     </div>
     <div class='status-msg-border'>
       <div class='status-msg-bg'>
-        <div class='status-msg-hidden'><data:navMessage/></div>
       </div>
     </div>
   </div>
@@ -3464,6 +3553,23 @@ window.addEventListener('DOMContentLoaded', function() {
 });
 //]]>
 </script>
+      <script>
+  document.addEventListener(&quot;DOMContentLoaded&quot;, function () {
+    const isHome =
+      window.location.pathname === &quot;/&quot; ||
+      window.location.pathname === &quot;/index.html&quot; ||
+      window.location.href === &quot;https://mordictionary.blogspot.com/&quot; ||
+      window.location.href === &quot;https://mordictionary.blogspot.com&quot;;
+
+    if (!isHome) {
+      const randomPost = document.querySelector(&quot;.random-post&quot;);
+      if (randomPost) {
+        randomPost.style.display = &quot;none&quot;;
+      }
+    }
+  });
+</script>
+
 
 <!-- Regular post feed for non-homepage pages -->
 <b:if cond='data:blog.pageType != &quot;index&quot;'>
@@ -3476,55 +3582,76 @@ window.addEventListener('DOMContentLoaded', function() {
     </div>
     </div>
   </div>
-  
 <footer class='footer-container'>
   <div id='socket'>
     <div class='container'>
       <div class='footer-content'>
-         <div class='footer-column'>
+
+        <!-- Socials Column -->
+        <div class='footer-column'>
           <h3>Socials</h3>
           <div class='footer-links'>
-             <a href='https://www.youtube.com/@wearyourdictionary' rel='noopener noreferrer' target='_blank'>YouTube</a>
-            <a href='https://x.com/DictionaryWear' rel='noopener noreferrer' target='_blank'>X</a>
+            <a href='https://www.youtube.com/@mordictionary' rel='noopener noreferrer' target='_blank'>YouTube</a>
+            <a href='https://x.com/mordictionary' rel='noopener noreferrer' target='_blank'>X</a>
             <a href='https://www.reddit.com/user/DictionaryWear/' rel='noopener noreferrer' target='_blank'>Reddit</a>
-            <a href='https://www.tumblr.com/wearyourdictionary' rel='noopener noreferrer' target='_blank'>Tumblr</a>
+            <a href='https://mordictionary.neocities.org/' rel='noopener noreferrer' target='_blank'>Neocities</a>
           </div>
         </div>
+
+        <!-- Legal Column -->
         <div class='footer-column'>
-          <h3>Quick Links</h3>
-          <div class='footer-links'>
-            <a href='https://forms.gle/wtgmaPDdSn6V1gS46' rel='noopener noreferrer' target='_blank'>Suggestion Box</a>
-            <a href='https://forms.gle/MHjtYaoRqGXk6DkY7' rel='noopener noreferrer' target='_blank'>Request to Post</a>
-            <a href='https://about.me/wearyourdictionary' rel='noopener noreferrer' target='_blank'>About Us</a>
-             <a href='https://wearyourdictionary.wixsite.com/' rel='noopener noreferrer' target='_blank'>Wix Site</a>
-            <a href='https://sites.google.com/view/wearyourdictionary/where-are-we' rel='noopener noreferrer' target='_blank'>Google Site</a>
+          <div class='copyright'>
+            &#169; <script type='text/javascript'>document.write(new Date().getFullYear());</script> MorDictionary<br/>
+            Licensed under the 
+            <a href='https://opensource.org/licenses/MIT' rel='noopener noreferrer' target='_blank'>The Unlicense</a>.<br/>
+            <a href='https://github.com/MorDictionary/blogger-theme-mor-dictionary/tree/main' rel='noopener noreferrer' target='_blank'>
+              GitHub Repository
+            </a>
           </div>
         </div>
-        
-        <div class='footer-column'>
-          <h3>Print on Demand</h3>
-          <div class='footer-links'>
-            <a href='https://wear-your-dictionary.creator-spring.com/' rel='noopener noreferrer' target='_blank'>Teespring</a>
-            <a href='https://www.teepublic.com/user/wearyourdictionary' rel='noopener noreferrer' target='_blank'>Teepublic</a>
-            <a href='https://wear-your-dictionary.myspreadshop.com/' rel='noopener noreferrer' target='_blank'>Spreadshirt</a>
-          </div>
-        </div>   
-        <div class='footer-column'>
-  <div class='copyright'>
-    &#169; <script>document.write(new Date().getFullYear())</script> WearYourDictionary 
-    Licensed under the <a href='https://opensource.org/licenses/MIT' rel='noopener noreferrer' target='_blank'>MIT License</a>.
-    <br>
-    <a href='https://github.com/WearYourDictionary/wear-your-dictionary-blogger-theme' rel='noopener noreferrer' target='_blank'>GitHub Repository</a>
-  <div class='back-to-top'>
-    <button id='back-to-top'>Back to Top</button>
-  </div>
-    </br>
-          </div>
-        </div>
+
+      </div> <!-- /.footer-content -->
+
+      <!-- Back to Top -->
+      <div class='back-to-top'>
+        <button id='back-to-top'>Back to Top</button>
       </div>
+
+      <!-- 🎵 MorDictionary Theme Music Player (inside footer, bottom) -->
+      <div id='music-footer-bar'>
+        <audio id='music-player'>
+          <source src='https://ia600802.us.archive.org/28/items/mor-dictionary-theme-remastered/MorDictionary%20Theme%20%28Remastered%29.mp3' type='audio/mpeg'/>
+        </audio>
+        <button id='play-button'>&#9654;</button>
+        <button id='pause-button' style='display: none;'>&#10074;&#10074;</button>
+        <a href='https://soundcloud.com/mor-dictionary/mordictionary-theme-remastered-free-to-use-moribund-institute-suno' id='track-label' rel='noopener noreferrer' target='_blank'>
+          Now Playing: MorDictionary Theme
+        </a>
+      </div>
+
     </div>
   </div>
 </footer>
+
+
+<script type='text/javascript'>
+  var player = document.getElementById(&#39;music-player&#39;);
+  var playBtn = document.getElementById(&#39;play-button&#39;);
+  var pauseBtn = document.getElementById(&#39;pause-button&#39;);
+
+  playBtn.addEventListener(&#39;click&#39;, function () {
+    player.play();
+    playBtn.style.display = &#39;none&#39;;
+    pauseBtn.style.display = &#39;inline-block&#39;;
+  });
+
+  pauseBtn.addEventListener(&#39;click&#39;, function () {
+    player.pause();
+    pauseBtn.style.display = &#39;none&#39;;
+    playBtn.style.display = &#39;inline-block&#39;;
+  });
+</script>
+
 
 
 <button class='btn btn-outline-light' id='back-to-top-fixed'>Back to Top</button>
@@ -3658,61 +3785,70 @@ document.addEventListener("DOMContentLoaded", function () {
 // ]]>
 </script>
 <script type='text/javascript'>
-  // <![CDATA[
-   document.addEventListener('DOMContentLoaded', function () {
+// <![CDATA[
+document.addEventListener('DOMContentLoaded', function () {
     // Dropdown toggle functionality
     function toggleDropdown() {
         const dropdown = document.querySelector('.dropdown-menu');
         dropdown.classList.toggle('active');
     }
 
-    // Function to close dropdown
     function closeDropdown() {
         const dropdown = document.querySelector('.dropdown-menu');
         dropdown.classList.remove('active');
     }
 
-    // Event listener for the notification bell
     const bellIcon = document.querySelector('.bell-icon');
     if (bellIcon) {
-        bellIcon.addEventListener('click', function(event) {
+        bellIcon.addEventListener('click', function (event) {
             event.stopPropagation();
             toggleDropdown();
         });
     }
 
-    // Event listener for clicking outside the dropdown
-    document.addEventListener('click', function(event) {
+    document.addEventListener('click', function (event) {
         const dropdown = document.querySelector('.dropdown-menu');
-        const bellIcon = document.querySelector('.bell-icon');
         if (dropdown && !dropdown.contains(event.target) && event.target !== bellIcon) {
             closeDropdown();
         }
     });
 
-    // Make the title clickable
-    const titleElement = document.querySelector('#FeaturedPost1 .title');
-    if (titleElement) {
-        titleElement.addEventListener('click', function () {
-            window.location.href = 'https://link-to-newest-post.com'; // Change the URL to your desired link
-        });
-    }
+    // Fetch the latest post from Blogger feed
+    fetch('/feeds/posts/default?alt=json')
+        .then(response => response.json())
+        .then(data => {
+            const latestPostUrl = data.feed.entry[0].link.find(l => l.rel === 'alternate').href;
 
-    // Make the entire post-summary clickable
-    const postSummaryElement = document.querySelector('.post-summary');
-    if (postSummaryElement) {
-        postSummaryElement.addEventListener('click', function () {
-            window.location.href = 'https://link-to-post-summary.com'; // Change the URL to your desired link
-        });
-    }
+            // Make .title clickable
+            const titleElement = document.querySelector('#FeaturedPost1 .title');
+            if (titleElement) {
+                titleElement.addEventListener('click', function () {
+                    window.location.href = latestPostUrl;
+                });
+            }
 
-    // Make the image clickable
-    const postImageElement = document.querySelector('.post-summary img');
-    if (postImageElement) {
-        postImageElement.addEventListener('click', function () {
-            window.location.href = 'https://link-to-image.com'; // Change the URL to your desired link
+            // Make post summary clickable
+            const postSummary = document.querySelector('.post-summary');
+            if (postSummary) {
+                postSummary.addEventListener('click', function () {
+                    window.location.href = latestPostUrl;
+                });
+            }
+
+            // Make image clickable
+            const postImage = document.querySelector('.post-summary img');
+            if (postImage) {
+                postImage.addEventListener('click', function () {
+                    window.location.href = latestPostUrl;
+                });
+            }
+
+            // Also make the whole anchor inside the dropdown point to latest post
+            const dropdownLink = document.querySelector('.dropdown-menu a[href=""]');
+            if (dropdownLink) {
+                dropdownLink.setAttribute('href', latestPostUrl);
+            }
         });
-    }
 });
 // ]]>
 </script>
