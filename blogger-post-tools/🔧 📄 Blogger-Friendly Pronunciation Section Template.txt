@@ -1,0 +1,23 @@
+<p>
+  <em>Part of Speech</em> | 
+  <span style="white-space: nowrap;">
+    <strong>IPA (RP):</strong> /your-rp-ipa-here/
+    <button onclick="document.getElementById('audio-id-here').play()" 
+            style="background: none; border: none; padding-left: 6px; cursor: pointer;" 
+            aria-label="Play pronunciation">
+      🔊
+    </button>
+    <audio id="audio-id-here" preload="none">
+      <source src="https://www.example.com/your-audio-file.wav" type="audio/wav">
+      Your browser does not support the audio element.
+    </audio>
+  </span>
+</p>
+
+<p><strong>IPA (GenAm):</strong> /your-genam-ipa-here/</p>
+<p><strong>Katakana:</strong> カタカナでの表記： 「your-katakana-here」</p>
+<p><strong>Rhymes:</strong> -your-rhyme-ending-here</p>
+<p><strong>Hyphenation:</strong> syl‧la‧ble‧break‧down</p>
+<p style="color: #999999; font-style: italic;">“Optional tagline or proverb here.”</p>
+
+<hr />
